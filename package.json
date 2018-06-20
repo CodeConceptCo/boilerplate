@@ -1,0 +1,27 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Concept boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel app/index.html",
+    "build": "parcel build app/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ConceptMagazine/boilerplate.git"
+  },
+  "keywords": [
+    "concept",
+    "boilerplate"
+  ],
+  "author": "freeman14",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ConceptMagazine/boilerplate/issues"
+  },
+  "homepage": "https://github.com/ConceptMagazine/boilerplate#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
